@@ -1,0 +1,12 @@
+.big-title{
+    font-size: 2rem;
+    color: beige;
+    font-family: cursive;
+}
+body{
+    background-color: lightgray;
+    
+}
+.margin-50{
+    margin:50px;
+}
